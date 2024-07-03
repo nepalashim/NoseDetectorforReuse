@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">NoiseDetector</string>
+    <string name="permission_denied_message">Permission to record audio was denied</string>
+
 </resources>

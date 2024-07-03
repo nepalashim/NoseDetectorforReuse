@@ -10,6 +10,6 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_centerInParent="true"
-        android:text="Noise Level: 0 dB"
+        android:text="Noise Level:  dB"
         android:textSize="24sp"/>
 </RelativeLayout>
